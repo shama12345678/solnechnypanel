@@ -3,7 +3,7 @@ body {
 }
 header {
     background-image: url("https://s3-alpha-sig.figma.com/img/ccd5/d927/b89c5affa1bae5a63c71fdd0b2b6f930?Expires=1672012800&Signature=qU52AuBKvIu25ocXLLCPBnKjZD-Ywa3nBvOP0e~HOXqQawSlBsORzJKDgbla3RsUHC-MOJmzPDbQSN4QvoF-eHgZ0Zi7Jcj4tX522dpqQqTwSmil0TrxDeml4a85~ityqwsaqZio5QO8aEpePSzG7QcW-k9iiIAv3hP2eLyd6-xYn1RXiabK9bAybGK9DgQPUlB2Rvz1AP3vyfNxL6AJkWCx4jR3E29Y9-AX9StlAhzJnc3gcw7F80XtBBr3IXRVRUyWokXPXoJY~n8xq~aT3EXp9NPGrqzeaFmo~pgAZ98v9JpH18UI1lHQrvq52PdCOVJXHwpNtpH8-hzyKowaYQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
-    width: 1800px;
+    width: 1900px;
     height: 1200px;
     background-size: 100%;
 }
@@ -115,8 +115,9 @@ article {
     top: 190px;
     left: 122px;
 }
-.divp {
+.divh {
     width: 235px;
+    border: 1 px solid white;
     height: 114px;
     font-size: 18px;
     position: relative;
@@ -138,7 +139,7 @@ article {
 .kartinka {
     position: relative;
     left: 1010px;
-    bottom: 300px;
+    bottom: 240px;
 }
 .smalldiv {
     width: 235px;
@@ -170,11 +171,11 @@ article {
 }
 .art {
     position: relative;
-    top: 100px;
+    top: 200px;
 }
 .minut {
     background-image: url("https://i.ibb.co/vxYm4qM/Rectangle-10.png");
-    width: 1800px;
+    width: 1900px;
     height: 500px;
     position: relative;
     bottom: 300px;
@@ -302,7 +303,7 @@ article {
 }
 footer {
     background-image: url("https://i.ibb.co/gy5rG7Y/Rectangle-13.png");
-    width: 1800px;
+    width: 1900px;
     height: 700px;
     position: relative;
     top: 2000px;
