@@ -1,0 +1,380 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-image: url("https://s3-alpha-sig.figma.com/img/ccd5/d927/b89c5affa1bae5a63c71fdd0b2b6f930?Expires=1672012800&Signature=qU52AuBKvIu25ocXLLCPBnKjZD-Ywa3nBvOP0e~HOXqQawSlBsORzJKDgbla3RsUHC-MOJmzPDbQSN4QvoF-eHgZ0Zi7Jcj4tX522dpqQqTwSmil0TrxDeml4a85~ityqwsaqZio5QO8aEpePSzG7QcW-k9iiIAv3hP2eLyd6-xYn1RXiabK9bAybGK9DgQPUlB2Rvz1AP3vyfNxL6AJkWCx4jR3E29Y9-AX9StlAhzJnc3gcw7F80XtBBr3IXRVRUyWokXPXoJY~n8xq~aT3EXp9NPGrqzeaFmo~pgAZ98v9JpH18UI1lHQrvq52PdCOVJXHwpNtpH8-hzyKowaYQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+    width: 1800px;
+    height: 1200px;
+    background-size: 100%;
+}
+.bac {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 400px;
+    font-size: 25px;
+}
+.bac1 {
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 390px; 
+    Font-style: Bold;
+    Font-size: 80px;
+}
+.bac2 {
+    color: white;
+    Font-style: Bold;
+    Font-size: 60px;
+    text-align: center;
+    position: relative;
+    top: 360px;
+}
+.sapis {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 350px;
+    left: 730px;
+    font-size: 25px;
+    border: 5px solid white;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.sapis:hover {
+    opacity: 1;
+}
+.h2 {
+    color: white;
+    position: relative;
+    left: 780px;
+    top: 400px;
+}
+.a2 {
+   font-size: 100px; 
+}
+.a2::before  {
+    content: url(https://ibb.co/gtFgTwS);
+}
+.sety {
+    position: relative;
+    left: 840px;
+    top: 630px;
+    opacity: 0.8;
+}
+.sety:hover {
+    opacity: 1;
+}
+.mainh1 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 50px;
+}
+article {
+    width: 610px;
+    height: 216px;
+    font-size: 18px;
+}
+.imgbig {
+    position: absolute;
+    top: 1450px;
+    left: 1010px;
+}
+.sectionmain {
+    margin-left: 120px;
+    position: relative;
+    top: 100px;
+}
+.section2 {
+    position: relative;
+    top: 50px;
+}
+.mainhh {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 50px;
+}
+.nav {
+    color: black;
+    text-decoration: none;
+    margin: 45px;
+}
+.nav:visited {
+    border-bottom: 1 px solid black;
+}
+.nav2 {
+    position: relative;
+    top: 80px;
+    left: 75px;
+}
+.imgsmall {
+    position: relative;
+    top: 190px;
+    left: 122px;
+}
+.divp {
+    width: 235px;
+    height: 114px;
+    font-size: 18px;
+    position: relative;
+    left: 400px;
+    bottom: 34px;
+}
+.imgfroww {
+    position: relative;
+    left: 450px;
+    top: 40px;
+} 
+.qwertyp {
+    width: 600px;
+    height: 130px;
+    position: relative;
+    left: 1010px;
+    bottom: 330px;
+}
+.kartinka {
+    position: relative;
+    left: 1010px;
+    bottom: 300px;
+}
+.smalldiv {
+    width: 235px;
+    height: 110px;
+    position: relative;
+    bottom: 800px;
+    left: 122px;
+}
+.smalldiv2 {
+    width: 235px;
+    height: 110px;
+    position: relative;
+    bottom: 938px;
+    left: 488px;
+}
+.smalldiv3 {
+    width: 235px;
+    height: 110px;
+    position: relative;
+    bottom: 830px;
+    left: 122px;
+}
+.smalldiv4 {
+    width: 235px;
+    height: 110px;
+    position: relative;
+    bottom: 968px;
+    left: 488px;
+}
+.art {
+    position: relative;
+    top: 100px;
+}
+.minut {
+    background-image: url("https://i.ibb.co/vxYm4qM/Rectangle-10.png");
+    width: 1800px;
+    height: 500px;
+    position: relative;
+    bottom: 300px;
+}
+.imgh2 {
+    color: white;
+    width: 600px;
+    height: 220px;
+    position: relative;
+    top: 180px;
+    left: 700px;
+}
+
+.house {
+    position: relative;
+    top: 500px;
+    left: 122px;
+}
+.housep {
+    width: 680px;
+    position: relative;
+    top: 100px;
+    left: 800px;
+}
+.p {
+    position: relative;
+    left: 800px;
+    top: 140px;
+}
+.sapis2 {
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 130px;
+    left: 800px;
+    font-size: 25px;
+    border: 5px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.sapis2:hover {
+    opacity: 1;
+}
+.imgfrow {
+    position: relative;
+    left: 100px;
+    top: 230px;
+}
+.mainnumber {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 400px;
+}
+.mainnumber1 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 440px;
+}
+.mainnumber2 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 500px;
+}
+.mainnumber3 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 590px;
+}
+.mainnumber4 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 670px;
+}
+.mainhh1 {
+    color: grey;
+    position: relative;
+    left: 122px;
+    top: 400px;
+}
+.bigdiv {
+    width: 700px;
+    position: relative;
+    top: 400px;
+    left: 122px;
+    height: 100px;
+}
+.bigdiv1 {
+    width: 700px;
+    position: relative;
+    top: 420px;
+    left: 122px;
+    height: 100px;
+}
+.bigdiv2 {
+    width: 700px;
+    position: relative;
+    top: 500px;
+    left: 122px;
+    height: 100px;
+}
+.bigdiv3 {
+    width: 700px;
+    position: relative;
+    top: 590px;
+    left: 122px;
+    height: 100px;
+}
+.bigdiv4 {
+    width: 700px;
+    position: relative;
+    top: 670px;
+    left: 122px;
+    height: 100px;
+}
+.car {
+    position: relative;
+    left: 1000px;
+    bottom: 550px;
+}
+footer {
+    background-image: url("https://i.ibb.co/gy5rG7Y/Rectangle-13.png");
+    width: 1800px;
+    height: 700px;
+    position: relative;
+    top: 2000px;
+}
+.foot {
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 122px;
+}
+.sapis3 {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 330px;
+    left: 122px;
+    font-size: 25px;
+    border: 5px solid white;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.sapis3:hover {
+    opacity: 1;
+}
+.p1 {
+    color: white;
+    border-bottom: 1px solid white;
+}
+.p2 {
+    color: white;
+    border-bottom: 1px solid white;
+}
+.divp {
+    width: 600px;
+    position: absolute;
+    left: 122px;
+    top: 190px;
+}
+.footerp {
+    position: absolute;
+    color: white;
+    top: 600px;
+    left: 122px;
+}
+.h3 {
+    color: white;
+    position: relative;
+    left: 500px;
+    top: 540px;
+}
+.sety1 {
+    position: relative;
+    left: 1420px;
+    top: 470px;
+    opacity: 0.8;
+}
+.sety1:hover {
+    opacity: 1;
+}
+.foot1 {
+    color: white;
+    position: relative;
+    bottom: 100px;
+    left: 970px;
+}
+.divfoot {
+    color: white;
+    position: relative;
+    left: 970px;
+    bottom: 100px;
+}
+.p10 {
+    margin-bottom: 50px;
+}
