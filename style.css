@@ -6,6 +6,7 @@ header {
     width: 1920px;
     height: 1200px;
     background-size: 100%;
+    display: flex;
 }
 .bac {
     text-align: center;
