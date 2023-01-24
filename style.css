@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
 }
 header {
-    background-image: url("https://s3-alpha-sig.figma.com/img/ccd5/d927/b89c5affa1bae5a63c71fdd0b2b6f930?Expires=1672012800&Signature=qU52AuBKvIu25ocXLLCPBnKjZD-Ywa3nBvOP0e~HOXqQawSlBsORzJKDgbla3RsUHC-MOJmzPDbQSN4QvoF-eHgZ0Zi7Jcj4tX522dpqQqTwSmil0TrxDeml4a85~ityqwsaqZio5QO8aEpePSzG7QcW-k9iiIAv3hP2eLyd6-xYn1RXiabK9bAybGK9DgQPUlB2Rvz1AP3vyfNxL6AJkWCx4jR3E29Y9-AX9StlAhzJnc3gcw7F80XtBBr3IXRVRUyWokXPXoJY~n8xq~aT3EXp9NPGrqzeaFmo~pgAZ98v9JpH18UI1lHQrvq52PdCOVJXHwpNtpH8-hzyKowaYQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+    background-image: url("https://ibb.co/smMDdVx");
     width: 1920px;
     height: 1200px;
     background-size: 100%;
@@ -10,21 +10,21 @@ header {
 }
 .bac {
     text-align: center;
-    color: white;
+    color: black;
     position: relative;
     top: 400px;
     font-size: 25px;
 }
 .bac1 {
     text-align: center;
-    color: white;
+    color: black;
     position: relative;
     top: 390px; 
     Font-style: Bold;
     Font-size: 80px;
 }
 .bac2 {
-    color: white;
+    color: black;
     Font-style: Bold;
     Font-size: 60px;
     text-align: center;
@@ -32,13 +32,13 @@ header {
     top: 360px;
 }
 .sapis {
-    color: white;
+    color: black;
     text-decoration: none;
     position: relative;
     top: 350px;
     left: 730px;
     font-size: 25px;
-    border: 5px solid white;
+    border: 5px solid black;
     padding: 5px;
     border-radius: 10px;
     opacity: 0.7;
@@ -47,7 +47,7 @@ header {
     opacity: 1;
 }
 .h2 {
-    color: white;
+    color: black;
     position: relative;
     left: 780px;
     top: 400px;
